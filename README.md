@@ -4,6 +4,8 @@ ITVARA is an intelligent, conversational travel planning agent designed specific
 
 ![ITVARA Interactive Demo](demo.gif)
 
+🎬 **Full Demo Video**: [itvara_demo.mp4](itvara_demo.mp4)
+
 ---
 
 ## 🌟 Key Capabilities & Wired Services
@@ -61,6 +63,7 @@ itvara/
 ├── record_demo.py             # Playwright browser interaction recording script
 ├── record_demo_with_music.py   # Automated demo video recorder
 ├── demo.gif                   # Looping animated preview of ITVARA in action
+├── itvara_demo.mp4            # Recorded demo video (silent MP4)
 ├── agents-cli-manifest.yaml   # Manifest for agents-cli CLI tool
 ├── pyproject.toml             # Python dependencies and uv configuration
 └── Dockerfile                 # Production Cloud Run deployment Dockerfile
